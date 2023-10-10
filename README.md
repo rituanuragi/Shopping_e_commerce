@@ -95,23 +95,28 @@ Create an environment variable file (e.g., .env) to store sensitive information 
 **Installation**
 
 1.Clone the repository:
+
 git clone https://github.com/yourusername/shopping-ecommerce.git
 cd shopping-ecommerce
 
 2.Install server dependencies:
+
 cd server
 npm install
 
 3.Set up environment variables in .env file (create one in the server folder if it doesn't exist):
+
 PORT=3001
 SECRET_KEY=your_secret_key
 STRIPE_SECRET_KEY=your_stripe_secret_key
 
 4.Install client dependencies:
+
 cd ../client
 npm install
 
 5.Start the server and client:
+
 npm start
 
 The application should now be running on http://localhost:3000.
