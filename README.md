@@ -9,12 +9,16 @@ Installation
 Shopping E-Commerce is an online shopping platform that allows users to browse, search, and purchase products from a wide range of categories. This README provides an overview of the project, its features, and instructions for setting it up and using it.
 
 **Technologies Used**
+
 **1. Stripe:**
 Stripe is a popular payment processing platform that allows you to securely accept online payments for products and services. It provides APIs and tools for handling payments, managing customer information, and more.
 **2.Strapi:**
+
 Strapi is an open-source headless Content Management System (CMS) that allows you to create, manage, and deliver content through APIs. It's often used for managing product data, categories, and other content in e-commerce applications.
+
 **3.SCSS (Sass):**
 SCSS (Syntactically Awesome Style Sheets) is a preprocessor for CSS. It extends the capabilities of regular CSS, making it easier to write and maintain stylesheets for your website. SCSS allows you to use variables, nesting, mixins, and more.
+
 **4.React:**
 React is a popular JavaScript library for building user interfaces. It's often used to create dynamic and interactive web applications.
 
