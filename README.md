@@ -1,10 +1,10 @@
 # Shopping_E_Commerce
 
-Table of Contents
-Introduction
-Technologies Used
-Features
-Installation
+**Table of Contents:**
+1.Introduction
+2.Technologies Used
+3.Features
+4.Installation
 
 **Introduction**
 Shopping E-Commerce is an online shopping platform that allows users to browse, search, and purchase products from a wide range of categories. This README provides an overview of the project, its features, and instructions for setting it up and using it.
