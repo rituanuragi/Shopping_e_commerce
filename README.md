@@ -1,4 +1,5 @@
-# Shopping_e_commerce
+# Shopping_E_Commerce
+
 Table of Contents
 Introduction
 Technologies Used
